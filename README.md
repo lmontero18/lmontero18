@@ -8,5 +8,5 @@ Currently I'm finishing my first year of degree in ULACIT. I've been working in 
 
 ### 💻 Lenguages 
 
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src=""/>
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg""/>
 
