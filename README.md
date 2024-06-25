@@ -2,7 +2,7 @@
 
 **`Software Full Stack Developer`**
 
-I'm a Junior Full Stack Developert from Costa Rica trying to get enough knowledge to build my way up to be a great developer
+I'm a Junior Full Stack Developer from Costa Rica trying to get enough knowledge to build my way up to be a great developer
 Currently I' finish my bachealor degree in ULACIT. I've been working in several projects due to different courses and internships that I've complete, but for me its not enough with the projects that I did, so I'm looking for some new areas to experiment and practice my programming skills so I can achive my goal.
 ---
 
