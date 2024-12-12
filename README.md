@@ -1,6 +1,6 @@
 # 👨🏽‍💻Luis Montero
 
-**`Software Full Stack Developer`**
+**`Software Front End Developer`**
 
 I'm a Frontend Developer from Costa Rica, passionate about creating seamless user experiences and exploring new technologies. With experience across diverse projects, I’m always looking to push my skills further. Currently, I’m diving into Web3 development, driven by its transformative potential and my curiosity for innovation. I'm eager to contribute to impactful projects and grow alongside a forward-thinking team.
 ---
