@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on building and scaling Katalogue, a platform to discover and showcase creative work, and contributing to DevLive, a space that empowers devs through events and tools<br>👯 I’m looking to collaborate on indie tech products, creative tools, and community-first platforms where thoughtful design meets useful tech.<br>🤝 I’m looking for help with expanding developer communities, refining GTM/product strategies, and integrating AI workflows that actually save time.<br>🌱 I’m currently learning more about advanced web app architecture, AI-powered tools for creators, and ways to build digital systems that feel personal and intentional.<br>💬 Ask me about productivity stacks, fast MVP building, turning chaos into structure, or how to manage multi-project workflows without burning out.<br>⚡ Fun fact: I played basketball for 13+ years — I’m wired for team dynamics, quick decision-making, and high-pressure execution.
+## 💫 About Me
+🔭 Currently building and scaling **Katalogue**, and contributing to **DevLive**, a platform that empowers devs through tools and events.  
+👯 Open to collaborating on indie products, creative tools, and community-first platforms.  
+🌱 Learning more about advanced web architecture, AI tools for creators, and intentional digital design.  
+💬 Ask me about productivity stacks, shipping fast MVPs, or managing multiple projects without burning out.  
+⚡ **Fun fact:** I played basketball for 13+ years — teamwork, pressure, and fast execution are second nature.
+
 
 
 ## 🌐 Socials:
